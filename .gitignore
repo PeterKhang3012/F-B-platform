@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+/backend/owner-state.json
+/backend/owner-state.json.tmp
+.env
+node_modules/
